@@ -15,7 +15,7 @@ int but1;
 int but2;
 int but3;
 int but4;
-int but5;
+int but5;dd
 
 int sw1;
 int sw2;
